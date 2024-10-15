@@ -117,7 +117,7 @@ body {
 
 .logoMain {
   position: absolute;
-  margin-top: 20em;
+  margin-top: 22em;
   margin-left: 11.2em;
   align-items: center;
 }
@@ -153,6 +153,10 @@ body {
   width: 500px;
   height: 500px;
   align-items: center;
+}
+.profile-img {
+  position: absolute;
+  top: -120px;
 }
 
 .card {
